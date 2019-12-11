@@ -5,12 +5,12 @@ Pass Through Meediator for Nepal Health Horkfoce Registry
 # Installation 
     You should have a running openHIM-core
 
-    run npm install
+    npm install
 
-    run npm start 
+    npm start 
 
         or
-    run node lib/index.js
+    node lib/index.js
 
 # To get all data from the registry
 
